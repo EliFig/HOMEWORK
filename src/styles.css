@@ -37,6 +37,9 @@ p {
   line-height: 1.5;
   text-align: center;
 }
+.about {
+  font-size: 60px;
+}
 .navigation-links {
   display: flex;
   margin-top: 40px;
@@ -130,5 +133,8 @@ p {
   }
   body {
     margin-bottom: 100px;
+  }
+  .about {
+    font-size: 36px;
   }
 }
